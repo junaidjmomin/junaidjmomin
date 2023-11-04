@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **junaidmofficial@gmail.com**
 
-- 📄 Know about my experiences **[Resume or CV link](Resume Link)**
-
 - ⚡ Fun fact **I eat vanilla ice-cream with pineapple**
 
 ---
