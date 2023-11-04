@@ -70,6 +70,7 @@
 - [Stranger Things](https://www.netflix.com/title/80057281)
 - [The Terminal](https://www.netflix.com/in/title/60034584)
 - [Wednesday](https://www.netflix.com/in/title/81231974)
+- [Never Have I Ever](https://www.netflix.com/in/title/80179190?s=a&trkid=13747225&trg=cp&vlang=en&clip=81602844)
 <!-- Netflix:END -->
 
 ---
