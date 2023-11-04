@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Coding from Home] (![image](https://github.com/junaidjmomin/junaidjmomin/assets/121440706/f902316e-d1fb-460f-aa7a-b59258bab228)
-) 
--->
+![image](https://github.com/junaidjmomin/junaidjmomin/assets/121440706/d9226ddc-57c3-43bb-871c-57191147c6dd)
 
 ## Most Used Languages
 
