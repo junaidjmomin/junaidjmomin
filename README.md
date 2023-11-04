@@ -17,7 +17,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **MediClusterNLP(github.com/junaidjmomin/mediclusternlp)**
+- 🔭 I’m currently working on **[MediClusterNLP](github.com/junaidjmomin/mediclusternlp)**
 
 - 🌱 I’m currently learning **DJ'ing and music production**
 
