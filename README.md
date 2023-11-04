@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![Coding from Home](![image](https://github.com/junaidjmomin/junaidjmomin/assets/121440706/f902316e-d1fb-460f-aa7a-b59258bab228)
-)
+![Coding from Home] (![image](https://github.com/junaidjmomin/junaidjmomin/assets/121440706/f902316e-d1fb-460f-aa7a-b59258bab228)
+) 
 -->
 
 ## Most Used Languages
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/junaidjmomin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/junaidjmomin/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 
@@ -17,8 +17,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Large Scale Employability of MediClusterNL
+- 🔭 I’m currently working on Large Scale Employability of MediClusterNLP.
 - 🌱 I’m currently learning R-programming language.
-- 👯 I’m looking to collaborate on projects related to AI, ML and Data Science
-- 📫 How to reach me: junaidmofficial@gmail.com
+- 👯 I’m looking to collaborate on projects related to AI, ML and Data Science.
+- 📫 How to reach me: junaidmofficial@gmail.com.
 - ⚡ Fun fact: I like to eat vanilla ice-cream with pineapples.
