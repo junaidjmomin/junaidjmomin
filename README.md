@@ -20,6 +20,5 @@
 - 🔭 I’m currently working on Large Scale Employability of MediClusterNL
 - 🌱 I’m currently learning R-programming language.
 - 👯 I’m looking to collaborate on projects related to AI, ML and Data Science
-- 💬 Ask me about 
 - 📫 How to reach me: junaidmofficial@gmail.com
 - ⚡ Fun fact: I like to eat vanilla ice-cream with pineapples.
