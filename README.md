@@ -1,22 +1,79 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600" height="300"/>
+</div>
 
-![image](https://github.com/junaidjmomin/junaidjmomin/assets/121440706/d9226ddc-57c3-43bb-871c-57191147c6dd)
+<h1 align="center">Hi 👋, I'm Junaid Momin </h1>
+<h3 align="center">A passionate Developer and Learner from Maharashtra</h3>
 
-## Most Used Languages
-
-![](https://raw.githubusercontent.com/junaidjmomin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/junaidjmomin/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<p align="center">
+  <em>
+    This is the place where I opensource stuff and break things :rofl:
+  </em>  
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=junaidjmomin&label=Profile%20views&color=0e75b6&style=flat" alt="junaidjmomin" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=junaidjmomin&color=blueviolet) 
+### 🧐 More About Me:
 
-<!-- You can add a section with some introduction or about yourself -->
+- 🔭 I’m currently working on **MediClusterNLP(github.com/junaidjmomin/mediclusternlp)**
 
-## About Me
+- 🌱 I’m currently learning **DJ'ing and music production**
 
-- 🔭 I’m currently working on Large Scale Employability of MediClusterNLP.
-- 🌱 I’m currently learning R-programming language.
-- 👯 I’m looking to collaborate on projects related to AI, ML and Data Science.
-- 📫 How to reach me: junaidmofficial@gmail.com.
-- ⚡ Fun fact: I like to eat vanilla ice-cream with pineapples.
+- 👨‍💻 All of my projects are available at **[Junaid Momin](github.com/junaidjmomin)**
+
+- 💬 Ask me about **STEM**
+
+- 📫 How to reach me **junaidmofficial@gmail.com**
+
+- 📄 Know about my experiences **[Resume or CV link](Resume Link)**
+
+- ⚡ Fun fact **I eat vanilla ice-cream with pineapple**
+
+---
+
+### 🛠 Languages and Tools:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://tse3.mm.bing.net/th?id=OIP.hciifnb7mj-ilARkfVPEBwHaH4&pid=Api&P=0&h=180" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTex" width="40" height="40"/>
+  <img src="https://tse1.mm.bing.net/th?id=OIP.QYqagoCRoUkQsncOgPJZOAHaHp&pid=Api&P=0&h=180" alt="Mathematica" width="40" height="40"/>
+</div>
+
+---
+
+### 📊 My Github Stats:
+
+  <br/>
+    <a href="https://github.com/junaidjmomin/github-readme-stats"><img alt="Junaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <br/>
+  <a href="https://github.com/junaidjmomin/github-readme-stats"><img alt="Junaid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&langs_count=8&layout=compact&theme=algolia" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+---
+
+### 🤝 Connect with me:
+
+<p align="left">
+<a href="[Your LinkedIn](LinkedIn Link)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="[Your Twitter](Twitter Link)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="your-twitter" height="30" width="40" /></a>
+</p>
+
+---
+
+
+### 📺 Netflix Recommendations:
+
+<!-- Netflix:START -->
+- [Stranger Things](https://www.netflix.com/title/80057281)
+- [The Terminal](https://www.netflix.com/in/title/60034584)
+- [Wednesday](https://www.netflix.com/in/title/81231974)
+<!-- Netflix:END -->
+
+---
+
+⭐️ From [@JunaidJMomin](https://github.com/junaidjmomin)
