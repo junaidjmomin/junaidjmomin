@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-# Hi there 👋
-
-<!-- You can add an image like this:
 ![Coding from Home](![image](https://github.com/junaidjmomin/junaidjmomin/assets/121440706/f902316e-d1fb-460f-aa7a-b59258bab228)
 )
 -->
