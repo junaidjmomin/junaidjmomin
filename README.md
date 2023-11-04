@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Junaid Momin </h1>
-<h3 align="center">A passionate Developer and Learner from Maharashtra</h3>
+<h3 align="center">A passionate Developer and Learner from Maharashtra, India</h3>
 
 <p align="center">
   <em>
@@ -17,9 +17,9 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **[MediClusterNLP](github.com/junaidjmomin/mediclusternlp)**
+- 🔭 I’m currently working on **[MediClusterNLP](https://github.com/junaidjmomin/MediClusterNLP)**
 
-- 🌱 I’m currently learning **DJ'ing and music production**
+- 🌱 I’m currently learning **DJ'ing and music production (Obsessed with my mixer and serato)**
 
 - 👨‍💻 All of my projects are available at **[Junaid Momin](github.com/junaidjmomin)**
 
