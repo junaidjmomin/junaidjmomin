@@ -27,8 +27,8 @@
 
 - 👨‍💻 All of my projects are available at **[Junaid Momin](github.com/junaidjmomin)**
 
-- 💬  <h1>**Got questions on JS? I promise to console.log some enlightening answers**</h1>
-      <h2> **Curious about TensorFlow? Let's dive into layers of conversation you won't find dense.** </h2>
+- 💬  <p>**Got questions on JS? I promise to console.log some enlightening answers**</p>
+      <p> **Curious about TensorFlow? Let's dive into layers of conversation you won't find dense.** </p>
 
 - 📫 How to reach me **junaidmofficial@gmail.com**
 
