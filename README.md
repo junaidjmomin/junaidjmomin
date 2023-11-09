@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **junaidmofficial@gmail.com**
 
-- ⚡ Fun fact **I eat vanilla ice-cream with pineapple**
+- ⚡ Fun fact **I like vanilla ice-cream with pineapple**
 
 ---
 
