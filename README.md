@@ -30,7 +30,6 @@
 - 👨‍💻 All of my projects are available at **[Junaid Momin](github.com/junaidjmomin)**
 
 - 💬 **Got questions on JS? I promise to console.log some enlightening answers**
-      <p> **Curious about TensorFlow? Let's dive into layers of conversation you won't find dense.** </p>
 
 - 📫 How to reach me **junaidmofficial@gmail.com**
 
