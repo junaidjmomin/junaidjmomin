@@ -17,8 +17,6 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **[MediClusterNLP](https://github.com/junaidjmomin/MediClusterNLP)**
-
 - 🌱 I’m currently learning **DJ'ing and music production**
 - Listen to my favourite tracks:     [Morten x Tomorrowland](https://www.youtube.com/watch?v=9h5ZWR2GRds), 
                                      [Hardwell x Mysteryland](https://www.youtube.com/watch?v=_8acHa-APa8), 
