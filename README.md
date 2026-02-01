@@ -54,7 +54,6 @@ I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues Col
 </p>
 
 <p align="center">
-  <img src="https://pro-quoter.vercel.app/api/quote?theme=dark" alt="Daily Quote" />
 </p>
 
 ---
