@@ -40,23 +40,22 @@ I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues Col
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Junaid's GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidjmomin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" alt="Junaid's GitHub Stats" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidjmomin&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/junaidjmomin/junaidjmomin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
----
 
 ## 📫 Connect with Me
 
