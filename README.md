@@ -1,83 +1,85 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600" height="300"/>
-</div>
-
-<h1 align="center">Hi 👋, I'm Junaid Momin </h1>
-<h3 align="center">A passionate Developer and Learner from Maharashtra, India</h3>
+# <p align="center">Hi there, I'm Junaid Momin! 👋</p>
 
 <p align="center">
-  <em>
-    This is the place where I opensource stuff and break things :rofl:
-  </em>  
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=junaidjmomin&label=Profile%20views&color=0e75b6&style=flat" alt="junaidjmomin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junaid%20Momin&fontSize=60&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Full%20Stack%20|%20Blockchain%20Developer&descAlignY=65&descSize=20" alt="Junaid Momin Banner" />
 </p>
 
 ---
 
-### 🧐 More About Me:
+## 🚀 About Me
 
-- 🌱 I’m currently learning **DJ'ing and music production**
-- Listen to my favourite tracks:     [Morten x Tomorrowland](https://www.youtube.com/watch?v=9h5ZWR2GRds), 
-                                     [Hardwell x Mysteryland](https://www.youtube.com/watch?v=_8acHa-APa8), 
-                                     [Martin Garrix B2B Alesso](https://www.youtube.com/watch?v=raOVXUB13vw&pp=ygUNbWFydGluIGdhcnJpeA%3D%3D), 
-                                     [David Guetta & MORTEN | Future Rave Live @ Brooklyn Mirage](https://www.youtube.com/watch?v=BXwfirNqQ_U)
-                                    
-                                       
+I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai, and a **Smart India Hackathon 2025 Winner**. I love building intelligent systems that solve real-world problems.
 
-- 👨‍💻 All of my projects are available at **[Junaid Momin](github.com/junaidjmomin)**
+- 🏆 **SIH 2025 Winner** with Team ARKA!
 
-- 💬 **Got questions on JS? I promise to console.log some enlightening answers**
-
-- 📫 How to reach me **junaidmofficial@gmail.com**
-
-- ⚡ Fun fact **I like vanilla ice-cream with pineapple**
 
 ---
 
-### 🛠 Languages and Tools:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://tse3.mm.bing.net/th?id=OIP.hciifnb7mj-ilARkfVPEBwHaH4&pid=Api&P=0&h=180" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTex" width="40" height="40"/>
-  <img src="https://tse1.mm.bing.net/th?id=OIP.QYqagoCRoUkQsncOgPJZOAHaHp&pid=Api&P=0&h=180" alt="Mathematica" width="40" height="40"/>
-</div>
 
----
+## 🎓 Education
 
-### 📊 My Github Stats:
+- **B.Tech in Computer Engineering**
+  *Fr. Conceicao Rodrigues College of Engineering, Mumbai*
+  *Minors: Business Management & Sustainability*
 
-  <br/>
-    <a href="https://github.com/junaidjmomin/github-readme-stats"><img alt="Junaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  <br/>
-  <a href="https://github.com/junaidjmomin/github-readme-stats"><img alt="Junaid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&langs_count=8&layout=compact&theme=algolia" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
-
-### 🤝 Connect with me:
-
-<p align="left">
-<a href="[Your LinkedIn](LinkedIn Link)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="[Your Twitter](Twitter Link)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="your-twitter" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Winner+of+Smart+India+Hackathon+2025;AI/ML+and+Blockchain+Enthusiast;Full+Stack+Mobile+and+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
+## 🛠️ Tech Stack & Skills
 
-### 📺 Netflix Recommendations:
-
-<!-- Netflix:START -->
-- [Stranger Things](https://www.netflix.com/title/80057281)
-- [The Terminal](https://www.netflix.com/in/title/60034584)
-- [Wednesday](https://www.netflix.com/in/title/81231974)
-- [Never Have I Ever](https://www.netflix.com/in/title/80179190?s=a&trkid=13747225&trg=cp&vlang=en&clip=81602844)
-- [Every Tom Cruise Movie](https://www.netflix.com/browse/m/person/20660)
-<!-- Netflix:END -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,react,nextjs,flutter,flask,tensorflow,js,supabase,firebase,mysql,mongodb,git,github,docker,figma" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-⭐️ From [@JunaidJMomin](https://github.com/junaidjmomin)
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Junaid's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidjmomin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/junaidjmomin/junaidjmomin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/junaid-momin-684765217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:junaidmominofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/junaidjmomin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://pro-quoter.vercel.app/api/quote?theme=dark" alt="Daily Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junaidjmomin&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
