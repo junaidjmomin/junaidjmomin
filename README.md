@@ -1,16 +1,14 @@
-# <p align="center">Hi there, I'm Junaid Momin! 👋</p>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junaid%20Momin&fontSize=60&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Full%20Stack%20|%20Blockchain%20Developer&descAlignY=65&descSize=20" alt="Junaid Momin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junaid%20Momin&fontSize=60&animation=fadeIn&fontAlignY=40&&descAlignY=65&descSize=20" alt="Junaid Momin Banner" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai, and a **Smart India Hackathon 2025 Winner**. I love building intelligent systems that solve real-world problems.
-
-- 🏆 **SIH 2025 Winner** with Team ARKA!
+I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai. I love building intelligent systems that solve real-world problems.
 
 
 ---
