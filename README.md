@@ -40,6 +40,10 @@ I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues Col
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidjmomin&theme=react" alt="Junaid's GitHub Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/junaidjmomin" alt="Junaid's Github Contributions Green Boxes" />
+</p>
+
 ---
 
 
