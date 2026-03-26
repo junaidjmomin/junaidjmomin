@@ -2,25 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junaid%20Momin&fontSize=60&animation=fadeIn&fontAlignY=40&&descAlignY=65&descSize=20" alt="Junaid Momin Banner" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Winner+of+Smart+India+Hackathon+2025;AI/ML+and+Blockchain+Enthusiast;Full+Stack+Mobile+and+Web+Developer" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai. I love building intelligent systems that solve real-world problems.
+Hi there 👋, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai. I love building intelligent systems that solve real-world problems.
 
----
-
-
-
-## 🎓 Education
-
-- **B.Tech in Computer Engineering**
-  *Fr. Conceicao Rodrigues College of Engineering, Mumbai*
-  *Minors: Business Management & Sustainability*
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Winner+of+Smart+India+Hackathon+2025;AI/ML+and+Blockchain+Enthusiast;Full+Stack+Mobile+and+Web+Developer" alt="Typing SVG" />
-</p>
+- 🎓 **Education:** B.Tech in Computer Engineering (Minors in Business Management & Sustainability)
+- 🏆 **Achievements:** Winner of Smart India Hackathon 2025
+- 🌱 **Currently Exploring:** AI/ML, Blockchain, and Full Stack Mobile/Web Development
 
 ---
 
@@ -34,19 +28,18 @@ I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues Col
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidjmomin&theme=react" alt="Junaid's GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/junaidjmomin" alt="Junaid's Github Contributions Green Boxes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=react&hide_border=true" alt="Junaid's GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=react&hide_border=true" alt="Junaid's Top Languages" height="195"/>
 </p>
 
 ---
-
-
 
 ## 📫 Connect with Me
 
@@ -61,11 +54,6 @@ I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues Col
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<p align="center">
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=junaidjmomin&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
