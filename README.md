@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Hi there 👋, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai. I love building intelligent systems that solve real-world problems.
+Hi there, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai. I love building intelligent systems that solve real-world problems.
 
-- 🎓 **Education:** B.Tech in Computer Engineering (Minors in Business Management & Sustainability)
-- 🏆 **Achievements:** Winner of Smart India Hackathon 2025
-- 🌱 **Currently Exploring:** AI/ML, Blockchain, and Full Stack Mobile/Web Development
+- **Education:** B.Tech in Computer Engineering (Minors in Business Management & Sustainability)
+- **Achievements:** Winner of Smart India Hackathon 2025
+- **Currently Exploring:** AI/ML, Blockchain, and Full Stack Mobile/Web Development
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ Hi there 👋, I'm a passionate **Computer Engineering student** at Fr. Conceica
 
 ---
 
-## 📈 GitHub Activity & Stats
+## GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidjmomin&theme=react" alt="Junaid's GitHub Activity Graph" />
@@ -41,7 +41,7 @@ Hi there 👋, I'm a passionate **Computer Engineering student** at Fr. Conceica
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/junaid-momin-684765217/" target="_blank">
