@@ -31,7 +31,7 @@ Hi there, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rod
 ## GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidjmomin&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=junaidjmomin&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
