@@ -35,8 +35,8 @@ Hi there, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rod
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=react&hide_border=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" alt="Junaid's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=react&hide_border=true&langs_count=8&cache_seconds=86400" alt="Junaid's Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" alt="Junaid's GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=react&hide_border=true&count_private=true&langs_count=8&cache_seconds=86400" alt="Junaid's Top Languages" height="195"/>
 </p>
 
 <p align="center">
