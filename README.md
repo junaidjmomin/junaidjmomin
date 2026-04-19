@@ -40,7 +40,7 @@ Hi there, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rod
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Junaid's GitHub Metrics" />
+  <img src="github-metrics.svg" alt="Junaid's GitHub Metrics" />
 </p>
 
 ---
