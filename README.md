@@ -22,18 +22,6 @@
 
 
 
-```ts
-const junaid = {
-  role: "Computer Engineering Student",
-  location: "Mumbai, India",
-  achievement: "Smart India Hackathon 2025 Winner",
-  focus: ["AI/ML", "Full Stack Products", "Blockchain Systems"],
-  currentlyBuilding: ["AI assistants", "Automation dashboards", "Web3 product flows"],
-  workingStyle: "Fast prototypes, clean demos, practical engineering"
-};
-```
-
----
 
 
 
