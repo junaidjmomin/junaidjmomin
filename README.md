@@ -1,60 +1,98 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junaid%20Momin&fontSize=60&animation=fadeIn&fontAlignY=40&&descAlignY=65&descSize=20" alt="Junaid Momin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=210&section=header&text=Junaid%20Momin&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Blockchain&descAlignY=58&descSize=18" alt="Junaid Momin banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Winner+of+Smart+India+Hackathon+2025;AI/ML+and+Blockchain+Enthusiast;Full+Stack+Mobile+and+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Computer+Engineering+student+from+Mumbai;Smart+India+Hackathon+2025+winner;Building+AI-backed+web%2C+mobile%2C+and+Web3+products" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/junaidjmomin?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+  <a href="https://www.linkedin.com/in/junaid-momin-684765217/"><img src="https://img.shields.io/badge/LinkedIn-Junaid%20Momin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:junaidmominofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Junaid" /></a>
 </p>
 
 ---
 
-## About Me
+## About
 
-Hi there, I'm a passionate **Computer Engineering student** at Fr. Conceicao Rodrigues College of Engineering, Mumbai. I love building intelligent systems that solve real-world problems.
+I am a Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering, Mumbai, with minors in Business Management and Sustainability. I enjoy turning ambitious ideas into working demos: AI assistants, full-stack dashboards, Web3 account experiences, and practical tools that can survive outside a slide deck.
 
-- **Education:** B.Tech in Computer Engineering (Minors in Business Management & Sustainability)
-- **Achievements:** Winner of Smart India Hackathon 2025
-- **Currently Exploring:** AI/ML, Blockchain, and Full Stack Mobile/Web Development
+- Winner of Smart India Hackathon 2025.
+- Currently focused on AI/ML, full-stack product engineering, and blockchain-backed systems.
+- Comfortable moving across product thinking, frontend polish, backend APIs, data flows, and hackathon-speed execution.
 
 ---
 
-## Tech Stack & Skills
+## Featured Work
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Pravaha](https://github.com/junaidjmomin/pravaha) | AI-powered sales automation with proposal generation, role-based chat, live call coaching, CRM hooks, and admin workflows. | Next.js, FastAPI, AI workflows |
+| [BioWallet](https://github.com/junaidjmomin/biowallet) | Biometric-first smart-account wallet scaffold with passkey onboarding, ERC-4337 transaction intent preparation, guardian recovery, and Foundry contracts. | TypeScript, Fastify, WebAuthn, Solidity |
+| [VidyaSetu AI](https://github.com/junaidjmomin/VIDDYAI) | Educational chatbot build with a frontend and FastAPI backend for hackathon-style learning support. | React, Vite, FastAPI |
+| [DRIVN](https://github.com/junaidjmomin/drivn) | Urban wellness intelligence app combining a landing experience with ML stress prediction from health and AQI sensor data. | JavaScript, Flask, ML |
+| [FPTI Financial Assistant](https://github.com/junaidjmomin/fpti) | Gemini-powered financial assistant UI for conversations and document-aware finance support. | Next.js, Gemini API, TypeScript |
+| [Text-to-Speech Bot](https://github.com/junaidjmomin/Text-to-Speech-Bot) | Python command-line utility that converts text into spoken output with configurable speech settings. | Python, pyttsx3 |
+
+---
+
+## Tech Toolbox
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,react,nextjs,flutter,flask,tensorflow,js,supabase,firebase,mysql,mongodb,git,github,docker,figma" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js,react,nextjs,flutter,vite,tailwind,materialui,nodejs,express,flask,fastapi,tensorflow,supabase,firebase,mysql,mongodb,solidity,git,github,docker,figma" alt="Technology icons" />
   </a>
 </p>
 
----
-
-## GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=junaidjmomin&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidjmomin&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Junaid's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidjmomin&layout=compact&theme=react&hide_border=true&count_private=true&cache_seconds=86400" alt="Junaid's Top Languages" height="195"/>
-</p>
+| Area | Tools and interests |
+| --- | --- |
+| Frontend | React, Next.js, Vite, Flutter, Tailwind CSS, Material UI |
+| Backend | FastAPI, Flask, Node.js, Express, REST APIs, authentication flows |
+| Data and AI | Python, TensorFlow, model-backed assistants, document-aware chat, sensor-data workflows |
+| Databases and cloud | Supabase, Firebase, MongoDB, MySQL, Docker |
+| Web3 | Solidity, smart-account UX, passkeys, ERC-4337 concepts |
 
 ---
 
-## Connect with Me
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=junaidjmomin&theme=react&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junaidjmomin&theme=react" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junaidjmomin&theme=react" alt="Repositories per language" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=junaidjmomin&theme=react" alt="GitHub contribution stats" height="195" />
+</p>
+
+<details>
+  <summary>Detailed metrics</summary>
+  <p align="center">
+    <img src="./github-metrics.svg" alt="Detailed GitHub metrics" />
+  </p>
+</details>
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/junaid-momin-684765217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:junaidmominofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-junaidmominofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/junaidjmomin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-junaidjmomin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junaidjmomin&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=junaidjmomin&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
