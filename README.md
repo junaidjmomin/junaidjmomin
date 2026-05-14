@@ -20,9 +20,7 @@
 
 ---
 
-## About Me
 
-I am a Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering, Mumbai, with minors in Business Management and Sustainability. I enjoy building products that feel real: clear user journeys, usable interfaces, strong backend flows, and enough technical depth to stand up in a live demo.
 
 ```ts
 const junaid = {
