@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:38bdf8&height=220&section=header&text=Junaid%20Momin&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Full%20Stack%20Builder%20%7C%20Web3%20Explorer%20%7C%20SIH%202025%20Winner&descAlignY=55&descSize=17" alt="Junaid Momin profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:38bdf8&height=220&section=header&text=Junaid%20Momin&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Explorer%20%7C%20SIH%202025%20Winner&descAlignY=55&descSize=17" alt="Junaid Momin profile banner" />
 </p>
 
 <p align="center">
