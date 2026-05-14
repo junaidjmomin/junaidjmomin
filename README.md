@@ -12,6 +12,12 @@
   <a href="mailto:junaidmominofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Junaid" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Mumbai-India-0f172a?style=flat-square" alt="Mumbai, India" />
+  <img src="https://img.shields.io/badge/SIH%202025-Winner-16a34a?style=flat-square" alt="Smart India Hackathon 2025 winner" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack%20%2B%20Web3-0284c7?style=flat-square" alt="AI, full stack, and Web3 focus" />
+</p>
+
 ---
 
 ## About
@@ -21,6 +27,22 @@ I am a Computer Engineering student at Fr. Conceicao Rodrigues College of Engine
 - Winner of Smart India Hackathon 2025.
 - Currently focused on AI/ML, full-stack product engineering, and blockchain-backed systems.
 - Comfortable moving across product thinking, frontend polish, backend APIs, data flows, and hackathon-speed execution.
+
+---
+
+## Now
+
+| Building | Learning | Open To |
+| --- | --- | --- |
+| AI assistants, automation dashboards, and Web3 product flows | Production AI patterns, secure wallet UX, scalable backend architecture | Hackathons, internships, product collaborations, and open-source work |
+
+## Proof Points
+
+| Signal | Details |
+| --- | --- |
+| Hackathon execution | Built and shipped multi-part demos under competition constraints, including Smart India Hackathon 2025 winning work. |
+| Product range | Projects span AI sales automation, education chatbots, biometric wallets, finance assistants, sensor-data intelligence, and developer utilities. |
+| End-to-end comfort | Can move from frontend interaction design to backend APIs, data models, auth flows, deployment thinking, and demo storytelling. |
 
 ---
 
@@ -56,6 +78,10 @@ I am a Computer Engineering student at Fr. Conceicao Rodrigues College of Engine
 ---
 
 ## GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junaidjmomin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=junaidjmomin&theme=react&hide_border=true" alt="GitHub streak" />
