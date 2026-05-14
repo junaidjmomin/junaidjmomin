@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:38bdf8&height=220&section=header&text=Junaid%20Momin&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Full%20Stack%20Builder%20%7C%20Web3%20Explorer%20%7C%20SIH%202025%20Winner&descAlignY=55&descSize=17" alt="Junaid Momin profile banner" />
 </p>
 
-<h3 align="center">I build hackathon-fast, demo-ready products with AI, full-stack engineering, and blockchain-backed systems.</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Engineering+student+from+Mumbai;Smart+India+Hackathon+2025+Winner;AI+Assistants+%7C+Automation+Dashboards+%7C+Web3+Flows;Turning+ideas+into+working+product+demos" alt="Typing introduction" />
 </p>
@@ -39,26 +37,7 @@ const junaid = {
 
 ---
 
-## What I Am Building Toward
 
-| Product Direction | What I Like Building | What I Am Improving |
-| --- | --- | --- |
-| AI-first products | Assistants, automation tools, proposal systems, document-aware workflows | Production AI patterns, evaluation, reliability, and UX |
-| Full-stack platforms | Dashboards, APIs, auth flows, database-backed user journeys | Scalable backend architecture and cleaner deployments |
-| Web3 systems | Passkey onboarding, smart-account UX, auditability, recovery flows | Secure wallet experiences and blockchain-backed trust layers |
-
----
-
-## Featured Builds
-
-| Project | Snapshot | Stack |
-| --- | --- | --- |
-| [Pravaha](https://github.com/junaidjmomin/pravaha) | AI-powered sales automation platform with proposal generation, role-based chat, live call coaching, CRM hooks, and admin workflows. | Next.js, FastAPI, AI workflows |
-| [BioWallet](https://github.com/junaidjmomin/biowallet) | Biometric-first smart-account wallet scaffold with passkeys, ERC-4337 transaction intent preparation, recovery flows, and contracts. | TypeScript, Fastify, WebAuthn, Solidity |
-| [VidyaSetu AI](https://github.com/junaidjmomin/VIDDYAI) | Educational chatbot build with a frontend and FastAPI backend for hackathon-style learning support. | React, Vite, FastAPI |
-| [DRIVN](https://github.com/junaidjmomin/drivn) | Urban wellness intelligence app combining a polished landing experience with ML stress prediction from health and AQI sensor data. | JavaScript, Flask, ML |
-| [FPTI Financial Assistant](https://github.com/junaidjmomin/fpti) | Gemini-powered financial assistant interface for conversation-led finance help and document-aware analysis. | Next.js, Gemini API, TypeScript |
-| [Text-to-Speech Bot](https://github.com/junaidjmomin/Text-to-Speech-Bot) | Python utility for turning text into speech with configurable voice settings. | Python, pyttsx3 |
 
 ---
 
