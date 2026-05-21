@@ -21,12 +21,6 @@
 ---
 
 
-
-
-
-
----
-
 ## Tech Arsenal
 
 <p align="center">
