@@ -52,21 +52,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junaidjmomin&theme=tokyonight" alt="GitHub contribution profile details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junaidjmomin&theme=tokyonight" alt="Repositories per language" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junaidjmomin&theme=tokyonight" alt="Most committed languages" height="195" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidjmomin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-<details>
-  <summary>Detailed generated metrics</summary>
-  <p align="center">
-    <img src="./github-metrics.svg" alt="Detailed GitHub metrics" />
-  </p>
-</details>
 
 ---
 
