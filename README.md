@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:38bdf8&height=220&section=header&text=Junaid%20Momin&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Explorer%20%7C%20SIH%202025%20Winner&descAlignY=55&descSize=17" alt="Junaid Momin profile banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Engineering+student+from+Mumbai;Smart+India+Hackathon+2025+Winner;AI+Assistants+%7C+Automation+Dashboards+%7C+Web3+Flows;Turning+ideas+into+working+product+demos" alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:38bdf8&height=200&section=header&text=Junaid%20Momin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20agentic%20systems%20%E2%80%94%20from%20satellite%20imagery%20to%20on-chain%20wallets&descAlignY=55&descSize=15" alt="Junaid Momin profile banner" />
 </p>
 
 <p align="center">
@@ -14,31 +10,57 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=junaidjmomin&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Mumbai-India-14b8a6?style=flat-square" alt="Mumbai, India" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack%20%2B%20Web3-0f172a?style=flat-square" alt="AI, full stack, and Web3 focus" />
 </p>
 
 ---
 
+### About
 
-## Tech Arsenal
+Second-year Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering, Mumbai (9.35 CGPA). I build systems that sit at the intersection of agentic AI and infrastructure that has to actually hold up — multi-agent pipelines, on-chain account abstraction, offline-first mobile inference. Most of what's below started as a hackathon build and turned into something I kept iterating on afterward.
+
+**Recent milestones:** Winner, Smart India Hackathon 2025 (national level) · Selected, JPMorgan Chase Technology Innovation Forum · 1st Runner-Up, Prakalp 2026
+
+---
+
+### What I'm building right now
+
+Working on **Challenge 02 of the Bharatiya Antariksh Hackathon 2026** — a generative AI pipeline for cloud removal and reconstruction on LISS-IV satellite imagery. The approach leans on three things most cloud-removal pipelines skip: SWIR-assisted masking using LISS-III bands, cloud-adaptive multi-modal fusion, and a severity-tiered generative architecture that outputs uncertainty-aware confidence maps rather than a single deterministic reconstruction — so downstream users know *where* to trust the fill.
+
+---
+
+### Selected projects
+
+**Deeksha** — Agentic visual programming IDE. Electron + React frontend orchestrating multi-agent pipelines through the Claude SDK, deployed on Cloud Run. The bet here was that visual programming and agent orchestration don't have to be separate tools.
+
+**Third Eye** — Vendor risk intelligence platform built for Indian banks. React/FastAPI/PostgreSQL/Redis with D3.js for the risk visualization layer, developed under a BMAD framework with CLAUDE.md-driven agent orchestration for the build process itself.
+
+**CivicLens** — Civic issue detection combining YOLOv8 for visual classification, LangGraph for the reasoning layer, FastAPI backend, and a Solidity contract layer for tamper-resistant reporting.
+
+**Pravaha** — AI sales intelligence tool. LangChain + Groq + Cohere for the reasoning stack, Pinecone for retrieval, VAPI for voice, wired into HubSpot CRM.
+
+**BioWallet** — Passkey-based smart wallet MVP using ERC-4337 account abstraction, built and tested with Foundry, authenticated via WebAuthn.
+
+**AuditX-Bharat** — Smart contract tooling stack on Hardhat, Wagmi, Viem, and RainbowKit.
+
+Earlier build worth mentioning: an **offline facial recognition + liveness detection system** for remote field deployment (Hackathon 7.0, NHAI/Datalake context) — MobileFaceNet running as INT8 TFLite for on-device inference, FASNet for liveness, an offline SQLite outbox pattern for eventual sync, and a React Native NativeModules bridge to tie it together.
+
+---
+
+### Stack
+
+**Frontend** — React, Next.js, Flutter, Vite, Tailwind
+**Backend** — FastAPI, Flask, Node.js, Express
+**AI / Data** — Python, TensorFlow, LangChain, LangGraph
+**Web3** — Solidity, ERC-4337, Foundry, Hardhat, Wagmi, Viem
+**Infra** — Docker, Supabase, Firebase, PostgreSQL, MongoDB, Redis
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js,react,nextjs,flutter,vite,tailwind,materialui,nodejs,express,flask,fastapi,tensorflow,supabase,firebase,mysql,mongodb,solidity,git,github,docker,figma" alt="Tech stack icons" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Flutter-38bdf8?style=flat-square" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Flask%20%7C%20Node.js-14b8a6?style=flat-square" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20TensorFlow%20%7C%20MongoDB-facc15?style=flat-square" alt="Data stack" />
-  <img src="https://img.shields.io/badge/Web3-Solidity%20%7C%20Passkeys%20%7C%20ERC--4337-a78bfa?style=flat-square" alt="Web3 stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js,react,nextjs,flutter,vite,tailwind,nodejs,express,flask,fastapi,tensorflow,supabase,firebase,mysql,mongodb,solidity,git,github,docker,figma" alt="Tech stack icons" />
 </p>
 
 ---
 
-## GitHub Pulse
+### GitHub activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=junaidjmomin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
@@ -48,15 +70,9 @@
   <img src="https://streak-stats.demolab.com?user=junaidjmomin&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junaidjmomin&theme=tokyonight" alt="GitHub contribution profile details" />
-</p>
-
-
-
 ---
 
-## Connect
+### Reach out
 
 <p align="center">
   <a href="https://www.linkedin.com/in/junaid-momin-684765217/">
@@ -71,5 +87,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,60:0f766e,100:020617&height=110&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,60:0f766e,100:020617&height=100&section=footer" alt="Footer wave" />
 </p>
