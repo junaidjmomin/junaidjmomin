@@ -1,65 +1,28 @@
-```
-JUNAID(1)                General Commands Manual                JUNAID(1)
+# Junaid Momin
 
-NAME
-       junaid - computer engineering student, Mumbai
+*Computer engineering student, Mumbai. First place, Smart India Hackathon 2025.*
 
-SYNOPSIS
-       junaid [--agent] [--dashboard] [--web3] [--explain-why]
+Most of what I know came from pushing past where tutorials stop and figuring out why things broke. That same instinct held up when the deadline pressure got tight enough to find bugs in code before I'd finished writing it.
 
-DESCRIPTION
-       Learned most of what it knows by pushing past the point
-       where the tutorial stops, then working out why things
-       broke.
+Right now I split time between two things that don't always get along: AI agents that act on a problem instead of writing a report about how you'd act on it, and Web3 flows simple enough that non-technical friends stop asking where the button is. Still haven't decided which is the bigger rabbit hole.
 
-       Won Smart India Hackathon 2025, first place, under
-       enough deadline pressure to discover bugs in code that
-       hadn't been written yet.
+> If it works and I can't explain why, it doesn't count as shipped.
 
-       Currently split between AI agents and Web3. Has not
-       decided which one is the bigger rabbit hole. Builds in
-       both until an answer shows up.
+## how i build
 
-OPTIONS
-       --agent
-              Builds something that acts on a problem instead
-              of writing a paragraph about how you'd act on it.
+- Ship a rough version first, then get annoyed at it until it isn't rough anymore
+- Treat documentation as a starting point, not the final word
+- Read the source when the docs and the actual behavior disagree
 
-       --dashboard
-              Takes data that makes no sense and makes it make
-              sense.
+## stack
 
-       --web3
-              Passkeys over seed phrases, always. Kept simple
-              enough that non-technical friends stop asking
-              where the button is.
+- **Frontend:** React · Next.js · Flutter · Vite · Tailwind · MUI
+- **Backend:** FastAPI · Flask · Node.js · Express
+- **Languages:** Python · C++ · C# · TypeScript · JavaScript
+- **Data / ML:** TensorFlow · MongoDB · MySQL · Firebase · Supabase
+- **Web3:** Solidity · ERC-4337 account abstraction · passkeys
+- **Tools:** Git · GitHub · Docker · Figma
 
-       --explain-why
-              Required flag. Code that works but can't be
-              explained is not considered shipped.
-
-STACK
-       frontend    react, next.js, flutter, vite, tailwind, mui
-       backend     fastapi, flask, node, express
-       languages   python, c++, c#, typescript, javascript
-       data/ml     tensorflow, mongodb, mysql, firebase, supabase
-       web3        solidity, erc-4337 account abstraction, passkeys
-       tooling     git, github, docker, figma
-
-BUGS
-       Ships rough versions on purpose, then gets annoyed
-       until they stop being rough. Treats documentation as
-       a first draft, not scripture.
-
-SEE ALSO
-       links below.
-
-AUTHOR
-       Junaid Momin. Patches and messages both welcome.
-```
-
-**reach out**
+## elsewhere
 
 [GitHub](https://github.com/junaidjmomin?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/junaid-momin-684765217/) · [Email](mailto:junaidmominofficial@gmail.com)
-
-If you scrolled this far, open an issue or say hi.
