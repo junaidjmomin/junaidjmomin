@@ -1,6 +1,6 @@
 # Junaid Momin
 
-*Computer engineering student, Mumbai. First place, Smart India Hackathon 2025.*
+*Computer engineering student, Mumbai. Smart India Hackathon 2025 winner.*
 
 Most of what I know came from pushing past where tutorials stop and figuring out why things broke. That same instinct held up when the deadline pressure got tight enough to find bugs in code before I'd finished writing it.
 
