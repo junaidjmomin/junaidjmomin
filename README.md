@@ -20,7 +20,7 @@ Right now I split time between two things that don't always get along: AI agents
 - **Backend:** FastAPI · Flask · Node.js · Express
 - **Languages:** Python · C++ · C# · TypeScript · JavaScript
 - **Data / ML:** TensorFlow · MongoDB · MySQL · Firebase · Supabase
-- **Web3:** Solidity · ERC-4337 account abstraction · passkeys
+- **Web3:** Solidity · ETH · SOL
 - **Tools:** Git · GitHub · Docker · Figma
 
 ## elsewhere
