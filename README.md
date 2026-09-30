@@ -1,28 +1,28 @@
 # Junaid Momin
 
-*Computer engineering student, Mumbai. Smart India Hackathon 2025 winner.*
+Computer Engineering student from Mumbai.  
+**Smart India Hackathon 2025 Winner.**
 
-Most of what I know came from pushing past where tutorials stop and figuring out why things broke. That same instinct held up when the deadline pressure got tight enough to find bugs in code before I'd finished writing it.
+I build AI agents, full-stack applications, and Web3 projects. From January '26 to May '26, you could've found me at a different hackathon every weekend, I mean literally. I am on a hackathon hiatus currently, and spend time building from scratch. If you have any queries or want to collaborate, the links below could be useful:
 
-Right now I split time between two things that don't always get along: AI agents that act on a problem instead of writing a report about how you'd act on it, and Web3 flows simple enough that non-technical friends stop asking where the button is. Still haven't decided which is the bigger rabbit hole.
+[Portfolio](https://junaidmomin.me) · [LinkedIn](https://www.linkedin.com/in/junaid-momin-684765217/) · [Email](mailto:junaidmominofficial@gmail.com)
 
-> If it works and I can't explain why, it doesn't count as shipped.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junaidjmomin&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-## how i build
+## Tech Stack
 
-- Ship a rough version first, then get annoyed at it until it isn't rough anymore
-- Treat documentation as a starting point, not the final word
-- Read the source when the docs and the actual behavior disagree
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp,cs,ts,js,solidity)](https://skillicons.dev)
 
-## stack
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,flutter)](https://skillicons.dev)
 
-- **Frontend:** React · Next.js · Flutter · Vite · Tailwind · MUI
-- **Backend:** FastAPI · Flask · Node.js · Express
-- **Languages:** Python · C++ · C# · TypeScript · JavaScript
-- **Data / ML:** TensorFlow · MongoDB · MySQL · Firebase · Supabase
-- **Web3:** Solidity · ETH · SOL
-- **Tools:** Git · GitHub · Docker · Figma
+### Backend
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express)](https://skillicons.dev)
 
-## elsewhere
+### Data & ML
+[![Data & ML](https://skillicons.dev/icons?i=tensorflow,mongodb,postgres)](https://skillicons.dev)
 
-[GitHub](https://github.com/junaidjmomin?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/junaid-momin-684765217/) · [Email](mailto:junaidmominofficial@gmail.com)
+
