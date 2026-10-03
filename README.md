@@ -3,7 +3,7 @@
 Computer Engineering student from Mumbai.  
 **Smart India Hackathon 2025 Winner.**
 
-I build AI agents, full-stack applications, and Web3 projects. From January '26 to May '26, you could've found me at a different hackathon every weekend, I mean literally. I am on a hackathon hiatus currently, and spend time building from scratch. If you have any queries or want to collaborate, the links below could be useful:
+I build AI agents, full-stack applications, Web3 projects and water my plants. From January '26 to May '26, you could've found me at a different hackathon every weekend, I mean literally. I am on a *hackathon hiatus* currently, and spend time building from scratch. If you have any queries or want to collaborate, the links below could be useful:
 
 [Portfolio](https://junaidmomin.me) · [LinkedIn](https://www.linkedin.com/in/junaid-momin-684765217/) · [Email](mailto:junaidmominofficial@gmail.com)
 
