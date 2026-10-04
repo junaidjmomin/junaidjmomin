@@ -1,0 +1,25 @@
+[
+  {"name":"cancel_then_late_result","guard":"cancellation","events":[
+    {"type":"request","revision":1},{"type":"cancel","revision":1},
+    {"type":"result","revision":1,"call_id":"book-1","action":"book:A"}],
+    "expected":{"revision":1,"status":"cancelled","actions":[]}},
+  {"name":"new_intent_then_old_result","guard":"revision","events":[
+    {"type":"request","revision":1},{"type":"request","revision":2},
+    {"type":"result","revision":1,"call_id":"book-1","action":"book:A"},
+    {"type":"result","revision":2,"call_id":"book-2","action":"book:B"}],
+    "expected":{"revision":2,"status":"completed","actions":["book:B"]}},
+  {"name":"duplicate_retry_result","guard":"deduplication","events":[
+    {"type":"request","revision":1},
+    {"type":"result","revision":1,"call_id":"book-1","action":"book:A"},
+    {"type":"result","revision":1,"call_id":"book-1","action":"book:A"}],
+    "expected":{"revision":1,"status":"completed","actions":["book:A"]}},
+  {"name":"stale_retrieval_version","guard":"source_version","events":[
+    {"type":"request","revision":1,"source_version":"policy-v2"},
+    {"type":"result","revision":1,"call_id":"retrieval-1","source_version":"policy-v1","action":"refund_window:30"},
+    {"type":"result","revision":1,"call_id":"retrieval-2","source_version":"policy-v2","action":"refund_window:7"}],
+    "expected":{"revision":1,"status":"completed","actions":["refund_window:7"]}},
+  {"name":"timeout_then_late_result","guard":"timeout","events":[
+    {"type":"request","revision":1},{"type":"timeout","revision":1},
+    {"type":"result","revision":1,"call_id":"book-1","action":"book:A"}],
+    "expected":{"revision":1,"status":"timed_out","actions":[]}}
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "case": "cancel_then_late_result",
+    "events": [
+      {
+        "type": "request",
+        "revision": 1
+      },
+      {
+        "type": "cancel",
+        "revision": 1
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "book-1",
+        "action": "book:A"
+      }
+    ],
+    "expected": {
+      "revision": 1,
+      "status": "cancelled",
+      "actions": []
+    },
+    "reference_actual": {
+      "revision": 1,
+      "status": "cancelled",
+      "actions": []
+    },
+    "mutant_actual": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "book:A"
+      ]
+    }
+  },
+  {
+    "case": "new_intent_then_old_result",
+    "events": [
+      {
+        "type": "request",
+        "revision": 1
+      },
+      {
+        "type": "request",
+        "revision": 2
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "book-1",
+        "action": "book:A"
+      },
+      {
+        "type": "result",
+        "revision": 2,
+        "call_id": "book-2",
+        "action": "book:B"
+      }
+    ],
+    "expected": {
+      "revision": 2,
+      "status": "completed",
+      "actions": [
+        "book:B"
+      ]
+    },
+    "reference_actual": {
+      "revision": 2,
+      "status": "completed",
+      "actions": [
+        "book:B"
+      ]
+    },
+    "mutant_actual": {
+      "revision": 2,
+      "status": "completed",
+      "actions": [
+        "book:A",
+        "book:B"
+      ]
+    }
+  },
+  {
+    "case": "duplicate_retry_result",
+    "events": [
+      {
+        "type": "request",
+        "revision": 1
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "book-1",
+        "action": "book:A"
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "book-1",
+        "action": "book:A"
+      }
+    ],
+    "expected": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "book:A"
+      ]
+    },
+    "reference_actual": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "book:A"
+      ]
+    },
+    "mutant_actual": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "book:A",
+        "book:A"
+      ]
+    }
+  },
+  {
+    "case": "stale_retrieval_version",
+    "events": [
+      {
+        "type": "request",
+        "revision": 1,
+        "source_version": "policy-v2"
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "retrieval-1",
+        "source_version": "policy-v1",
+        "action": "refund_window:30"
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "retrieval-2",
+        "source_version": "policy-v2",
+        "action": "refund_window:7"
+      }
+    ],
+    "expected": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "refund_window:7"
+      ]
+    },
+    "reference_actual": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "refund_window:7"
+      ]
+    },
+    "mutant_actual": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "refund_window:30",
+        "refund_window:7"
+      ]
+    }
+  },
+  {
+    "case": "timeout_then_late_result",
+    "events": [
+      {
+        "type": "request",
+        "revision": 1
+      },
+      {
+        "type": "timeout",
+        "revision": 1
+      },
+      {
+        "type": "result",
+        "revision": 1,
+        "call_id": "book-1",
+        "action": "book:A"
+      }
+    ],
+    "expected": {
+      "revision": 1,
+      "status": "timed_out",
+      "actions": []
+    },
+    "reference_actual": {
+      "revision": 1,
+      "status": "timed_out",
+      "actions": []
+    },
+    "mutant_actual": {
+      "revision": 1,
+      "status": "completed",
+      "actions": [
+        "book:A"
+      ]
+    }
+  }
+]

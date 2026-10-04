@@ -1,0 +1,16 @@
+{
+  "first_match_toy": {
+    "runs": 72,
+    "exact_match": 0.25,
+    "citation_support": 1.0,
+    "current_authority": 0.25,
+    "answer_consistency": 0.375
+  },
+  "evidence_first_toy": {
+    "runs": 72,
+    "exact_match": 1.0,
+    "citation_support": 0.75,
+    "current_authority": 0.75,
+    "answer_consistency": 1.0
+  }
+}

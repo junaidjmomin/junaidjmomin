@@ -1,0 +1,18 @@
+[
+  {"id":"refund_window","question":{"key":"refund_days","version":2,"text":"What is the current refund window in days?"},"expected":"7","passages":[
+    {"id":"refund-current","key":"refund_days","value":"7","version":2,"authoritative":true},
+    {"id":"refund-archived","key":"refund_days","value":"30","version":1,"authoritative":true},
+    {"id":"refund-comment","key":"refund_days","value":"60","version":2,"authoritative":false}]},
+  {"id":"support_hours","question":{"key":"support_hours","version":2,"text":"What are the current support hours?"},"expected":"09:00-17:00","passages":[
+    {"id":"hours-current","key":"support_hours","value":"09:00-17:00","version":2,"authoritative":true},
+    {"id":"hours-archived","key":"support_hours","value":"24/7","version":1,"authoritative":true},
+    {"id":"hours-comment","key":"support_hours","value":"10:00-18:00","version":2,"authoritative":false}]},
+  {"id":"plan_limit","question":{"key":"seats","version":3,"text":"How many seats does the current basic plan allow?"},"expected":"5","passages":[
+    {"id":"seats-current","key":"seats","value":"5","version":3,"authoritative":true},
+    {"id":"seats-archived","key":"seats","value":"3","version":2,"authoritative":true},
+    {"id":"seats-comment","key":"seats","value":"10","version":3,"authoritative":false}]},
+  {"id":"insufficient_evidence","question":{"key":"cancellation_fee","version":2,"text":"What is the current cancellation fee?"},"expected":"unknown","passages":[
+    {"id":"fee-archived","key":"cancellation_fee","value":"10","version":1,"authoritative":true},
+    {"id":"fee-comment","key":"cancellation_fee","value":"0","version":2,"authoritative":false},
+    {"id":"unrelated","key":"support_hours","value":"09:00-17:00","version":2,"authoritative":true}]}
+]

@@ -1,0 +1,6 @@
+case,reference_pass,mutant_detected,disabled_guard
+cancel_then_late_result,True,True,cancellation
+new_intent_then_old_result,True,True,revision
+duplicate_retry_result,True,True,deduplication
+stale_retrieval_version,True,True,source_version
+timeout_then_late_result,True,True,timeout
